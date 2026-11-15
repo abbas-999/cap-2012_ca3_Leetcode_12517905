@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/abbas-999/cap-2012_ca3_Leetcode_12517905/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/abbas-999/cap-2012_ca3_Leetcode_12517905/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/abbas-999/cap-2012_ca3_Leetcode_12517905/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/abbas-999/cap-2012_ca3_Leetcode_12517905/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/abbas-999/cap-2012_ca3_Leetcode_12517905/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/abbas-999/cap-2012_ca3_Leetcode_12517905/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -20,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/abbas-999/cap-2012_ca3_Leetcode_12517905/tree/master/0189-rotate-array) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/abbas-999/cap-2012_ca3_Leetcode_12517905/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Linked List
 |  |
