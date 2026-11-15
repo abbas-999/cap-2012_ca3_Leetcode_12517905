@@ -21,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/abbas-999/cap-2012_ca3_Leetcode_12517905/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/abbas-999/cap-2012_ca3_Leetcode_12517905/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
