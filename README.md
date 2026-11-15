@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/abbas-999/cap-2012_ca3_Leetcode_12517905/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/abbas-999/cap-2012_ca3_Leetcode_12517905/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/abbas-999/cap-2012_ca3_Leetcode_12517905/tree/master/0092-reverse-linked-list-ii) |
+| [0206-reverse-linked-list](https://github.com/abbas-999/cap-2012_ca3_Leetcode_12517905/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/abbas-999/cap-2012_ca3_Leetcode_12517905/tree/master/0622-design-circular-queue) |
 ## String
 |  |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/abbas-999/cap-2012_ca3_Leetcode_12517905/tree/master/0032-longest-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/abbas-999/cap-2012_ca3_Leetcode_12517905/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
