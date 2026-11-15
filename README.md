@@ -37,16 +37,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abbas-999/cap-2012_ca3_Leetcode_12517905/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/abbas-999/cap-2012_ca3_Leetcode_12517905/tree/master/0032-longest-valid-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abbas-999/cap-2012_ca3_Leetcode_12517905/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/abbas-999/cap-2012_ca3_Leetcode_12517905/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/abbas-999/cap-2012_ca3_Leetcode_12517905/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/abbas-999/cap-2012_ca3_Leetcode_12517905/tree/master/0232-implement-queue-using-stacks) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abbas-999/cap-2012_ca3_Leetcode_12517905/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/abbas-999/cap-2012_ca3_Leetcode_12517905/tree/master/0032-longest-valid-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -58,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/abbas-999/cap-2012_ca3_Leetcode_12517905/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/abbas-999/cap-2012_ca3_Leetcode_12517905/tree/master/0622-design-circular-queue) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/abbas-999/cap-2012_ca3_Leetcode_12517905/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
