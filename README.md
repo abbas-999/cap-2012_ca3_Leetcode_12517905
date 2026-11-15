@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/abbas-999/cap-2012_ca3_Leetcode_12517905/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/abbas-999/cap-2012_ca3_Leetcode_12517905/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/abbas-999/cap-2012_ca3_Leetcode_12517905/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/abbas-999/cap-2012_ca3_Leetcode_12517905/tree/master/0189-rotate-array) |
 ## Sorting
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/abbas-999/cap-2012_ca3_Leetcode_12517905/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/abbas-999/cap-2012_ca3_Leetcode_12517905/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/abbas-999/cap-2012_ca3_Leetcode_12517905/tree/master/0092-reverse-linked-list-ii) |
 ## String
